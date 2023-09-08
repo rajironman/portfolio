@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Marmelad&display=swap');
+*{
+    margin:0;
+    box-sizing: border-box;
+    border: none;
+    outline: none;
+    padding: none;
+    font-family: Marmela;
+}
+body{
+    background-image: url('bg2.jpeg');
+    background-size: cover;
+    background-attachment:fixed ;
+}
+#introduction{
+    /* background-color: darkblue; */
+    color: white;
+    font-size: 30px;
+    padding:200px 0px 200px 40px;
+}
+#introduction h1{
+    background-color: rgba(61, 61, 61, 0.3);
+    backdrop-filter: blur(3px);
+    width: max-content;
+    padding: 20px;
+    border-bottom: 2px solid currentColor;
+    margin: 10px 0px;    
+}
+#projects {
+    padding: 100px;
+}
+#projects > div{
+    display: grid;
+    grid-auto-flow: column;
+    padding: 25px;
+    background-color: rgba(20, 59, 94, 0.3);
+    backdrop-filter: blur(3px);
+    grid-template-columns: 1 1;
+    justify-items: stretch;
+    justify-content: stretch;
+    gap:40px;
+    border-radius: 5px;
+    margin:50px auto;
+}
+#projects > div > div{
+    color: white;
+    width:100%;
+    display: grid;
+    gap:30px;
+    align-content: start;
+    padding: 20px;
+}
+#projects iframe{
+    border-radius: 5px;
+    width:100%;
+    min-width: 500px;
+    height: 500px;
+}
+#projects > h1{
+    padding: 40px;
+    background-color: rgb(0, 72, 85);
+    color: white;
+    border-left: 3px solid grey;
+    width: max-content;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+#projects > div h1{
+    border-bottom: 3px solid currentColor;
+    width: max-content;
+    padding: 10px 2px;
+}
+
+#projects > div a{
+    background-color: white;
+    color:blue;
+    display: inline-block;
+    padding: 8px 16px;
+    border-radius: 3px;
+    width: max-content;
+    text-decoration: none;
+}
