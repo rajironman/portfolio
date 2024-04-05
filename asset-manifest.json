@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6fe69d4a.css",
+    "main.js": "/static/js/main.87f89c05.js",
+    "static/js/453.89e11b85.chunk.js": "/static/js/453.89e11b85.chunk.js",
+    "static/media/bullseye-gradient.png": "/static/media/bullseye-gradient.2d1e7c424501f3d945e8.png",
+    "static/media/python.png": "/static/media/python.6a5cbc319ab3ddf8ef92.png",
+    "static/media/php.png": "/static/media/php.4990580e9b615aeebb1f.png",
+    "static/media/react.png": "/static/media/react.3bf6fb4b18b1f904676d.png",
+    "static/media/mysql.png": "/static/media/mysql.7d8d571e5629923eaf74.png",
+    "static/media/telephone.png": "/static/media/telephone.fb244201058d6b0c101c.png",
+    "static/media/dsa.png": "/static/media/dsa.f2086855343ed829c227.png",
+    "static/media/github (1).png": "/static/media/github (1).f11021803f68852df283.png",
+    "static/media/django.png": "/static/media/django.559d0c6161a6fb950f02.png",
+    "static/media/html-5.png": "/static/media/html-5.cfb2ba4a6b1c3de295bc.png",
+    "static/media/leetcode.png": "/static/media/leetcode.f423476a97545ee24cb2.png",
+    "static/media/gmail.png": "/static/media/gmail.a2f2146f929409405da0.png",
+    "static/media/css-3.png": "/static/media/css-3.4a6549b8c2b4cda8bb88.png",
+    "static/media/js.png": "/static/media/js.3dfb665e058d08c99f28.png",
+    "index.html": "/index.html",
+    "main.6fe69d4a.css.map": "/static/css/main.6fe69d4a.css.map",
+    "main.87f89c05.js.map": "/static/js/main.87f89c05.js.map",
+    "453.89e11b85.chunk.js.map": "/static/js/453.89e11b85.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6fe69d4a.css",
+    "static/js/main.87f89c05.js"
+  ]
+}
